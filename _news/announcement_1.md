@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-03-05 15:59:00-0400
+date: 2024-09-25 14:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Making Backdoor for Good!! We’re thrilled to share our new paper <a href="https://arxiv.org/pdf/2402.14968.pdf">BackdoorAlign</a>, where the idea of “Backdoor Attack” is applied during fine-tuning to defend against the Fine-tuning Jailbreak Attack. Please visit our <a href="https://jayfeather1024.github.io/Finetuning-Jailbreak-Defense/">project page</a> for more details!
+I'm excited to share our two accepted papers <a href="https://nips.cc/virtual/2024/poster/96865">Mitigating Fine-tuning based Jailbreak Attack with Backdoor Enhanced Alignment</a> and <a href="https://nips.cc/virtual/2024/poster/93342">Consistency Purification: Effective and Efficient Diffusion Purification towards Certified Robustness</a> in NeurIPS 2024. See you in Vancouver this December!

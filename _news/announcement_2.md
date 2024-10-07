@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-01-16 16:11:00-0400
+date: 2024-09-09 20:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Our paper <a href="https://openreview.net/forum?id=yRrPfKyJQ2">Conversational Drug Editing Using Retrieval and Domain Feedback</a> is accepted by ICLR 2024.
+Our paper Preference Poisoning Attacks on Reward Model Learning is accepted by IEEE S&P 2025!
