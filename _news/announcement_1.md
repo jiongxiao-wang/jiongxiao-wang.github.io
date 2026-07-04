@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm excited to share our two accepted papers <a href="https://nips.cc/virtual/2024/poster/96865">Mitigating Fine-tuning based Jailbreak Attack with Backdoor Enhanced Alignment</a> and <a href="https://nips.cc/virtual/2024/poster/93342">Consistency Purification: Effective and Efficient Diffusion Purification towards Certified Robustness</a> in NeurIPS 2024. See you in Vancouver this December!
+I'm excited to share that my first-author paper, <a href="https://aclanthology.org/2026.acl-long.69.pdf">Reinforcement Learning for Self-Improving Agent with Skill Library</a>, completed during my internship at Amazon, has been accepted to ACL 2026! 🚀 I will be giving it an oral presentation on July 6th. If you're attending the conference in San Diego, please come by and check it out!
